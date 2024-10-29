@@ -1,0 +1,5 @@
+[DEFAULT]
+
+# port on which to host Critic
+CRITIC_PORT = 5111
+WATCH_DIR = fill in path here

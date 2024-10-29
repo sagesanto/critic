@@ -1,0 +1,6 @@
+watchdog
+flask
+configparser
+requests
+python-dotenv
+slack_sdk

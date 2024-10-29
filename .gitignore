@@ -1,0 +1,8 @@
+.venv
+test_dir
+.env
+*.service
+venv2
+config.txt
+*pyc
+__pycache__
